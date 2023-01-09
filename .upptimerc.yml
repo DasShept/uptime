@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DasShept Uptime
   introTitle: "DasShept Service Status"
-  introMessage: Here you can find the uptime of our services (ping is from us, we host in germany)
+  introMessage: Here you can find the uptime of our services (ping is from US, we host in germany)
   theme: night
   navbar:
     - title: Status
