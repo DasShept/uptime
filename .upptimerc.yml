@@ -10,6 +10,10 @@ sites:
   - name: JUtils API
     url: https://dasshept.de/api/license/
 
+assignees: # Users to assign downtime issues (optional)
+  - dassharkk
+  - mcshept
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,7 +22,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DasShept Uptime
   introTitle: "DasShept Service Status"
-  introMessage: Here you can find the uptime of our services
+  introMessage: Here you can find the uptime of our services (ping is from us, we host in germany)
+  theme: night
   navbar:
     - title: Status
       href: /
