@@ -40,18 +40,19 @@
     "url": "https://dasshept.de/api/license/",
     "icon": "https://icons.duckduckgo.com/ip3/dasshept.de.ico",
     "slug": "j-utils-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 120,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 189,
+    "time": 187,
+    "timeDay": 121,
+    "timeWeek": 159,
+    "timeMonth": 163,
+    "timeYear": 187,
     "dailyMinutesDown": {
+      "2023-02-20": 0,
       "2023-01-26": 6
     }
   }
