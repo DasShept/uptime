@@ -4,18 +4,20 @@
     "url": "https://dasshept.de",
     "icon": "https://icons.duckduckgo.com/ip3/dasshept.de.ico",
     "slug": "das-shept-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 621,
-    "timeWeek": 582,
-    "timeMonth": 574,
-    "timeYear": 593,
-    "dailyMinutesDown": {}
+    "time": 592,
+    "timeDay": 555,
+    "timeWeek": 570,
+    "timeMonth": 571,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "JUtils Website",
