@@ -6,18 +6,16 @@
     "slug": "das-shept-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 582,
-    "timeWeek": 578,
+    "timeDay": 527,
+    "timeWeek": 564,
     "timeMonth": 573,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2023-06-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JUtils Website",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 526,
-    "timeWeek": 571,
+    "timeDay": 466,
+    "timeWeek": 552,
     "timeMonth": 562,
     "timeYear": 578,
     "dailyMinutesDown": {}
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 162,
-    "timeWeek": 454,
-    "timeMonth": 341,
-    "timeYear": 241,
+    "time": 242,
+    "timeDay": 348,
+    "timeWeek": 482,
+    "timeMonth": 344,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-01-26": 6
     }
