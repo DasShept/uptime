@@ -6,17 +6,17 @@
     "slug": "das-shept-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 452,
-    "timeWeek": 513,
+    "time": 570,
+    "timeDay": 474,
+    "timeWeek": 515,
     "timeMonth": 535,
-    "timeYear": 571,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-08-12": 0
+      "2023-08-12": 7
     }
   },
   {
@@ -31,16 +31,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
-    "timeDay": 402,
-    "timeWeek": 492,
-    "timeMonth": 573,
+    "timeDay": 429,
+    "timeWeek": 499,
+    "timeMonth": 574,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
   {
     "name": "JUtils API",
-    "url": "https://api.dasshept.de/license",
-    "icon": "https://icons.duckduckgo.com/ip3/api.dasshept.de.ico",
+    "url": "$JUTILS_API_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j-utils-api",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 451,
-    "timeWeek": 334,
-    "timeMonth": 239,
-    "timeYear": 277,
+    "time": 279,
+    "timeDay": 464,
+    "timeWeek": 350,
+    "timeMonth": 247,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2023-01-26": 6
     }
