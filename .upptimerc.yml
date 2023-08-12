@@ -8,7 +8,7 @@ sites:
   - name: JUtils Website
     url: https://jutils.dasshept.de
   - name: JUtils API
-    url: https://api.dasshept.de/license
+    url: $JUTILS_API_URL
 
 assignees: # Users to assign downtime issues (optional)
   - dassharkk
