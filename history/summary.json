@@ -6,16 +6,18 @@
     "slug": "das-shept-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
+    "time": 571,
     "timeDay": 452,
     "timeWeek": 513,
     "timeMonth": 535,
-    "timeYear": 570,
-    "dailyMinutesDown": {}
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   },
   {
     "name": "JUtils Website",
