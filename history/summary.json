@@ -6,16 +6,17 @@
     "slug": "das-shept-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 3428,
+    "time": 651,
+    "timeDay": 504,
     "timeWeek": 3344,
     "timeMonth": 1310,
-    "timeYear": 652,
+    "timeYear": 651,
     "dailyMinutesDown": {
+      "2023-11-17": 3,
       "2023-11-16": 16,
       "2023-10-31": 39
     }
@@ -25,10 +26,10 @@
     "url": "https://jutils.dasshept.de",
     "icon": "https://icons.duckduckgo.com/ip3/jutils.dasshept.de.ico",
     "slug": "j-utils-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 562,
@@ -37,6 +38,7 @@
     "timeMonth": 593,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2023-11-17": 2,
       "2023-10-31": 39
     }
   },
@@ -45,9 +47,9 @@
     "url": "$JUTILS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j-utils-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -57,6 +59,7 @@
     "timeMonth": 524,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2023-11-17": 0,
       "2023-10-31": 39,
       "2023-01-26": 6
     }
