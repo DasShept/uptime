@@ -4,10 +4,10 @@
     "url": "https://dasshept.de",
     "icon": "https://icons.duckduckgo.com/ip3/dasshept.de.ico",
     "slug": "das-shept-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 635,
@@ -16,6 +16,7 @@
     "timeMonth": 554,
     "timeYear": 634,
     "dailyMinutesDown": {
+      "2024-01-15": 1,
       "2023-11-16": 16,
       "2023-10-31": 39
     }
@@ -25,9 +26,9 @@
     "url": "https://jutils.dasshept.de",
     "icon": "https://icons.duckduckgo.com/ip3/jutils.dasshept.de.ico",
     "slug": "j-utils-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 533,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2024-01-15": 0,
       "2023-10-31": 39
     }
   },
