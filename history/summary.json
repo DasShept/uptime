@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/dasshept.de.ico",
     "slug": "das-shept-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 441,
-    "timeWeek": 530,
+    "timeDay": 500,
+    "timeWeek": 528,
     "timeMonth": 557,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-05-09": 45,
-      "2024-01-15": 36,
+      "2024-05-09": 15,
+      "2024-01-15": 18,
       "2023-11-16": 16,
-      "2023-10-31": 117
+      "2023-10-31": 39
     }
   },
   {
@@ -28,21 +28,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/jutils.dasshept.de.ico",
     "slug": "j-utils-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 531,
-    "timeDay": 408,
-    "timeWeek": 481,
-    "timeMonth": 508,
+    "timeDay": 483,
+    "timeWeek": 485,
+    "timeMonth": 511,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-05-09": 45,
-      "2024-01-15": 36,
-      "2023-11-16": 16,
-      "2023-10-31": 117
+      "2024-05-09": 15,
+      "2024-01-15": 18,
+      "2023-10-31": 39
     }
   },
   {
@@ -51,21 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j-utils-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 478,
-    "timeDay": 404,
-    "timeWeek": 476,
-    "timeMonth": 522,
+    "timeDay": 458,
+    "timeWeek": 487,
+    "timeMonth": 524,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-05-09": 45,
-      "2024-01-15": 36,
-      "2023-11-16": 16,
-      "2023-10-31": 117
+      "2024-05-09": 15,
+      "2023-10-31": 39
     }
   }
 ]
