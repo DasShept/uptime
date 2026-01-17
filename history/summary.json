@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dasshept.de.ico",
     "slug": "das-shept-website",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 625,
-    "timeDay": 536,
-    "timeWeek": 610,
-    "timeMonth": 649,
+    "time": 624,
+    "timeDay": 583,
+    "timeWeek": 595,
+    "timeMonth": 643,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-10-21": 19,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
-    "timeDay": 440,
-    "timeWeek": 480,
-    "timeMonth": 518,
+    "timeDay": 477,
+    "timeWeek": 471,
+    "timeMonth": 514,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-10-21": 19
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 413,
-    "timeWeek": 489,
-    "timeMonth": 514,
-    "timeYear": 500,
+    "timeDay": 399,
+    "timeWeek": 467,
+    "timeMonth": 507,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   }
 ]
