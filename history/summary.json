@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 633,
-    "timeDay": 734,
-    "timeWeek": 678,
-    "timeMonth": 641,
-    "timeYear": 640,
+    "timeDay": 509,
+    "timeWeek": 662,
+    "timeMonth": 637,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2025-10-21": 19,
       "2025-06-05": 23
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jutils.dasshept.de.ico",
     "slug": "j-utils-website",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 649,
-    "timeWeek": 549,
-    "timeMonth": 525,
-    "timeYear": 510,
+    "timeDay": 348,
+    "timeWeek": 527,
+    "timeMonth": 521,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-10-21": 19
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 500,
-    "timeDay": 638,
-    "timeWeek": 512,
-    "timeMonth": 490,
+    "timeDay": 433,
+    "timeWeek": 504,
+    "timeMonth": 492,
     "timeYear": 500,
     "dailyMinutesDown": {}
   }
